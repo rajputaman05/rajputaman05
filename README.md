@@ -55,13 +55,13 @@
 
 ## 📜 Certifications
 
-- [cite_start]**Rover Dynamics** (2023) 
+- **Rover Dynamics** (2023) 
 
 ---
 
 ## 🔭 **Currently Working On**
 
-- **7th Semester Core Modules:** Advanced Machine Design and Mechanics of Composite Materials.
+- ** Core Modules:** Advanced Machine Design and Mechanics of Composite Materials.
 - **Goal:** Integrating CAD/CAM workflows for automotive optimization.
 - **Preparing for:** Core Mechanical Engineering roles (Class of 2026).
 
